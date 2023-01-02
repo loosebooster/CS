@@ -1,8 +1,11 @@
 # self-studying curriculum in Computer Science
-
-2022.12 - 
 ---
 
+[ 2022.12 - ]
+
+
+  
+---  
 * **Introduction to Computer Science**
 * **Discrete Mathematics**
 * **Data Structure**
@@ -10,5 +13,6 @@
 * **Logic Design**
 * **Computer Structure**
 * +@
-
+  
+  
 cf. https://cse.snu.ac.kr/undergraduate/course-dependency-graph
