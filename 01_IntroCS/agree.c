@@ -14,3 +14,5 @@ int main(void)
         printf("NOT AGREED\n");
     }
 }
+
+main();
