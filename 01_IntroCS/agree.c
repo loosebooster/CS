@@ -1,3 +1,5 @@
+// Logical Operatos
+
 #include <cs50.h>
 #include <stdio.h>
 
@@ -14,5 +16,3 @@ int main(void)
         printf("NOT AGREED\n");
     }
 }
-
-main();
