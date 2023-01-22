@@ -10,7 +10,6 @@ for i in range(1,n+1):
 
 '''
 #### Not Working ####
- 
 arr = list(map(int, input().split()))
 subsets = [[]]
 
@@ -23,11 +22,11 @@ print(f'subsets: {subsets}')
 '''
 
 
-def powerset(n):
-    masks = [1 << i for i in range(len(n))]
-    #print(f'masks: {masks}')
-    for i in range(1 << len(n)):
-        yield [s for s, mask in zip(n,masks) if mask & i]
+def powerset(num):
+    masks = [1 << i for i in range(len(num))]
+    #print(f'masks: {masks}')  ## >>> masks: [1, 2, 4, 8, 16]
+    for j in range(1 << len(num)):
+        yield [s for s, mask in zip(num,masks) if mask & j]    ## j = 0 ~ 2^n
 
 for p in powerset(num):
     print(p)
