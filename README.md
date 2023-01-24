@@ -1,4 +1,4 @@
-# self-studying curriculum in Computer Science
+# self-curriculum in Computer Science
 
 
 [ 2022.12 - ]
