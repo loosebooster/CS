@@ -1,4 +1,4 @@
-# self-curriculum in Computer Science
+# My own curriculum in Computer Science
 
 
 [ 2022.12 - ]
