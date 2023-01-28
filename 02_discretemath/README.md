@@ -9,7 +9,7 @@
 
 ---
 
-##### - Chapter 01. 이산수학을 위한 기본 개념 | Basic Concept for Discrete Mathematics  
+#####     - Chapter 01. 이산수학을 위한 기본 개념 | Basic Concept for Discrete Mathematics  
 ##### - Chapter 02. 수학적 모델과 논리 | Mathematical Model and Logic  
 ##### - Chapter 03. 집합 | Set  
 ##### - Chapter 04. 관계 | Relation  
