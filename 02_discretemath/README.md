@@ -1,7 +1,7 @@
 # DISCRETE MATHEMATICS
 
 [ Textbooks ]  
-## **이산수학 : tool 중심으로 이해하는 새로운 시각 | 한빛아카데미**  
+### **이산수학 : tool 중심으로 이해하는 새로운 시각 | 한빛아카데미**  
 
 [ Supplementary ]  
 * Discrete Mathematics and Its Applications | Kenneth H. Rosen | Seventh Edition  
