@@ -21,3 +21,7 @@
 * Chapter 07. 그래프 | Graph  
 * Chapter 08. 트리 | Tree  
 * Chapter 09. 경우의 수 세기와 확률 | Counting Methods and Probability  
+* Chapter 10. 점화 관계와 알고리즘 | Recurrence Relation and Algorithm
+* Chapter 11. 형식 언어와 오토마타 | Formal Language and Automata
+
+<br><br>
