@@ -19,7 +19,8 @@
 cf. https://cse.snu.ac.kr/undergraduate/course-dependency-graph
 
 <br>
-### Learning Progress
+### Learning Progress  
+
 
 | - | subject | course | type | contents | progress |
 |:---:|:---:  |:---:  |:---: |:---:     |:---:     |
