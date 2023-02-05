@@ -7,16 +7,16 @@ David J. Malan
 malan@harvard.edu
 
 ### Outline
-* 00 Scratch
-* 01 C
-* 02 Arrays
-* 03 Algorithms
-* 04 Memory
-* 05 Data Structures
-* 06 Python
-* 07 SQL
-* 08 HTML, CSS, JavaScript
-* 09 Flask
-* 10 Emoji
+* 00_Scratch
+* 01_C
+* 02_Arrays
+* 03_Algorithms
+* 04_Memory
+* 05_Data Structures
+* 06_Python
+* 07_SQL
+* 08_HTML, CSS, JavaScript
+* 09_Flask
+* 10_Emoji
 
 <br><br>
