@@ -1,4 +1,4 @@
-# < magic card >
+# 01. < magic card >
 # Think any number in 1 ~ 31
 # 5 cards are here
 # Is there the number you picked?  
