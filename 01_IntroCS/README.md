@@ -19,4 +19,12 @@ malan@harvard.edu
 * 09_Flask
 * 10_Emoji
 
-<br><br>
+<br>
+
+---
+<br>
+
+[ Supplementary ]
+https://www.boostcourse.org/cs112/joinLectures/41307
+
+<br>
