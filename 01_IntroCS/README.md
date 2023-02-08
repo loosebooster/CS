@@ -3,9 +3,10 @@
 https://cs50.harvard.edu/college/2022/fall/
 
 <br>
-### Instructor
-David J. Malan
-malan@harvard.edu
+### Instructor  
+
+David J. Malan  
+malan@harvard.edu  
 
 ### Outline
 * 00_Scratch
