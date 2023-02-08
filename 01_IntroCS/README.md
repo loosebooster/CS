@@ -24,7 +24,8 @@ malan@harvard.edu
 ---
 <br>
 
-[ Supplementary ]
+[ Supplementary ]  
+
 https://www.boostcourse.org/cs112/joinLectures/41307
 
 <br>
