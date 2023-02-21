@@ -30,6 +30,6 @@ cf. https://cse.snu.ac.kr/undergraduate/course-dependency-graph
 |05   |Logic Design|    ㅡ   |      |          |          |
 |06   |Computer Structure|   ㅡ    |      |          |          |
 |07   |+|   ㅡ    |      |          |          |
-|08   |(@)|   ㅡ   |      |          |          |
+|08   |Operating System| **리눅스 구조** | Book | Basic & practice | 2023.2 - |
 
 <br><br>
