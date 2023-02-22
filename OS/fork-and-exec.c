@@ -6,7 +6,7 @@
 static void child()
 {
     char *args[] = { "/bin/echo", "hello" , NULL};
-    prinf("child-pid: %d.\n", getpid());
+    printf("child-pid: %d.\n", getpid());
     fflush(stdout);
     execve("/bin/echo", args, NULL);
     err(EXIT_FAILURE, "exec() failed");
@@ -14,7 +14,7 @@ static void child()
 
 static void parent(pid_t pid_c)
 {
-    printf(parent-pid: %d, child-pid: %d.\n", getpid(), pid_c);
+    printf("parent-pid: %d, child-pid: %d.\n", getpid(), pid_c);
     exit(EXIT_SUCCESS);
 }
 
