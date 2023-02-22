@@ -28,3 +28,19 @@
     *  /usr/lib/libutil.dylib (compatibility version 1.0.0, current version 1.0.0)
         /usr/lib/libncurses.5.4.dylib (compatibility version 5.4.0, current version 5.4.0)
         /usr/lib/libSystem.B.dylib (compatibility version 1.0.0, current version 1311.120.1)
+  
+<br><br>
+
+
+**[ 프로세스 관리 ]**  
+
+---
+
+<br>
+
+## fork() 함수
+* fork() 함수 실행 시, 실행한 프로세스와 함께 새로운 프로세스 1개 생성
+* (생성전)parent process, (생성후)child process
+
+## execve() 함수
+* 전혀 다른 프로그램 생성 시 사용; 기존 프로세스를 별도의 프로세스로 변경하는 방식(프로세스 수 동일)
