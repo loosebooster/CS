@@ -14,10 +14,10 @@ f2 = {(1, 3), (2, 4), (3, 1), (4, 2), (5, 6), (6, 7), (7, 4), (8, 3), (9, 1), (1
 
 ''''''
 
-def func(A, input):
+def func(A, B):
     s = set()
     t = set()
-    l = list(input)
+    l = list(B)
     for i in range(len(l)):
         s.add(l[i][0])
         t.add(l[i][1])
