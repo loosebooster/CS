@@ -74,5 +74,3 @@
 ## CPU 상세정보 확인
 * ~~grep -c processor /proc/cpuinfo~~
 * sysctl -a | grep machdep.cpu   << Mac
-
-
