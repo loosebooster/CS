@@ -67,3 +67,10 @@
 ## 처리 성능지표
 * throughput: 단위시간 당 처리된 일의 양, 높을수록 좋은 성능 | 완료한 프로세스의 수 / 경과시간
 * latency: 각각의 처리가 경과된 시간(시작 ~ 종료), 짧을수록 좋음 | 처리 종료시간 - 처리 시작시간
+
+## load balancer
+* 여러 개의 논리 CPU에 프로세스를 공평하게 분배해주는 역할
+
+## CPU 상세정보 확인
+* ~~grep -c processor /proc/cpuinfo~~
+* sysctl -a | grep machdep.cpu   << Mac
