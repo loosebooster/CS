@@ -1,5 +1,10 @@
 # Linux
 
+* Linux >> Ubuntu
+* Linux = 커널
+* Ubuntu = Linux 배포판
+
+<br><br>
 
 ## OS
 * 사용자 모드 <-> 커널 모드
@@ -74,3 +79,6 @@
 ## CPU 상세정보 확인
 * ~~grep -c processor /proc/cpuinfo~~
 * sysctl -a | grep machdep.cpu   << Mac
+
+
+---
