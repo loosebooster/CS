@@ -19,6 +19,7 @@
 
 * tar -cvf (파일명) (폴더명) ): (폴더명)의 폴더를 (파일명).tar라는 명칭으로 압축
 * tar -xvf (파일명.tar) : 압축해제
+* tar -zxvf (파일명.tar.gz) : tar.gz 압축해제
 
 
 init
