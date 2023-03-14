@@ -21,6 +21,15 @@
 * tar -xvf (파일명.tar) : 압축해제
 * tar -zxvf (파일명.tar.gz) : tar.gz 압축해제
 
+---
+
+## SSH(Secure Shell); 보안이 우한 프로토콜
+
+ssh (secure shell)
+scp (secure copy)
+sftp (secure ftp)
+
+---
 
 init
 
