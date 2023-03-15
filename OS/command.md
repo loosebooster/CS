@@ -23,7 +23,7 @@
 
 ---
 
-## SSH(Secure Shell); 보안이 우한 프로토콜
+## SSH(Secure Shell); 보안이 우수한 프로토콜
 
 ssh (secure shell)
 scp (secure copy)
